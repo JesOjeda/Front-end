@@ -3,7 +3,7 @@ Curso Front-end
 
 PRACTICA 1 
 
-- Requerimientod
+- Requerimientos
 - Buyer persona
 - Publico objetivo
 - Wireframe
