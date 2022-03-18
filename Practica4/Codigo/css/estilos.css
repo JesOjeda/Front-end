@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Rokkitt:wght@300&display=swap');
+
+
+body{
+	background-color: #021422;
+}
+
+.bannerpoke{
+	background-color:#021422;
+}
+
+
+
+.cardimgPoke{
+	margin-top: 2% !important;
+
+}
+
+.cardinfoPoke{
+	background-color: #021422 !important;
+	 box-shadow: 0 0 20px #207dc8 !important;
+
+}
+
+.cardinfoPoke1{
+	background-color: #021422 !important;
+	 box-shadow: 0 0 20px #22e0ff !important;
+
+}
+
+.cardinfoPoke2{
+	background-color: #021422 !important;
+	 box-shadow: 0 0 20px #25ff00 !important;
+
+}
+
+.cardinfoPoke3{
+	background-color: #021422 !important;
+	 box-shadow: 0 0 20px #ff14ff !important;
+
+}
+
+
+
+
+.card-title{
+color: white;
+/*font-family: 'Rokkitt', serif;*/
+font-family: 'Concert One', cursive;
+font-size: 30px;
+margin-left: 2%;
+margin-right: 5%  !important;
+
+}
+
+.card-text{
+color: white;
+font-family: 'Concert One', cursive;
+font-size: 15px;
+
+
+}
+
+h3{
+color: white;
+font-family: 'Concert One', cursive;
+font-size: 15px;
+
+
+}
+
+span{
+color: white !important;
+font-family: 'Concert One', cursive;
+font-size: 12px;
+margin-left: 2%;
+}
+
+.inputPoke{
+	background-color: #021422 !important;
+	color: white !important;
+	margin-left: 2%;
+
+
+
+}
+.pname{
+	color: #207dc8;
+    font-family: 'Concert One', cursive;
+    font-size: 15px;
+
+}
+
+.titlecol p{
+	color: white;
+font-family: 'Concert One', cursive;
+font-size: 15px;
+
+
+}
+.btipo{
+	color: #207dc8;
+    font-family: 'Concert One', cursive;
+    font-size: 15px;
+
+}
+
+.titlecol{
+	color: #207dc8;
+    font-family: 'Concert One', cursive;
+    font-size: 15px;
+
+}
+
+.inputPoke::placeholder { 
+	/*color: white;*/
+
+	 }
+
+}
